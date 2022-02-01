@@ -1,0 +1,20 @@
+{
+  "name": "@akerolabs/exampleModule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak-paulrobinson/exampleModule.git"
+  },
+  "keywords": [],
+  "author": "Akero Labs <dev@akerolabs.com> (https://akerolabs.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak-paulrobinson/exampleModule/issues"
+  },
+  "homepage": "https://github.com/ak-paulrobinson/exampleModule#readme"
+}

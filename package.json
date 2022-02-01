@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ak-paulrobinson/exampleModule/issues"
   },
-  "homepage": "https://github.com/ak-paulrobinson/exampleModule#readme"
+  "homepage": "https://github.com/ak-paulrobinson/exampleModule#readme",
+  "engines": {
+    "node": "=14.18.x"
+  }
 }
